@@ -10,4 +10,4 @@ end
 
 display_board
 
-display_board([x,o,x,o,x,o,x,o,x])
+display_board(["x", "o", "x", "o", "x", "o", "x", "o", "x"])
